@@ -1,0 +1,12 @@
+{
+  "name": "boiler-post-1hs",
+  "version": "1.0.0",
+  "description": "A boilerplate project using Clean Architecture principles.",
+  "main": "src/interfaces/index.js",
+  "scripts": {
+    "start": "node src/interfaces/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
